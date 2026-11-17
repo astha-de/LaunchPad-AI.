@@ -1,0 +1,6 @@
+{
+  "name": "LaunchPad AI – Smart Job Preparation Platform",
+  "description": "Full-stack AI career readiness platform with resume analysis, job description matching, interview preparation, and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
